@@ -1414,7 +1414,7 @@ input, select, textarea {
 			}
 
 				.panel > .image {
-					min-height: 105vh;
+					min-height: 250vh;
 					width: 100%;
 				}
 
@@ -1452,8 +1452,8 @@ input, select, textarea {
 			}
 
 				.panel > .image {
-					min-height: 18em;
-					max-height: 30vh;
+					min-height: 35em;
+					max-height: 40vh;
 				}
 
 				.panel > .content {
